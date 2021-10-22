@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Javascript,Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Indrajit-Naskar](https://github.com/Indrajit-Naskar)
+- 👨‍💻 All of my projects are available at [https://github.com/indrajit447](https://github.com/indrajit447)
 
 - 💬 Ask me about **Css,Html,c++**
 
 - 📫 How to reach me **naskarindrajit447@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Indrajit-Naskar](https://github.com/Indrajit-Naskar)
+- 📄 Know about my experiences [https://github.com/indrajit447](https://github.com/indrajit447)
 
 - ⚡ Fun fact **I think that i am funny XD**
 
