@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Some project**
 
-- 🌱 I’m currently learning **Javascript,Nodejs**
+- 🌱 I’m currently learning **Mern stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/indrajit447](https://github.com/indrajit447)
 
-- 💬 Ask me about **Css,Html,c++**
+- 💬 Ask me about **react,c++,c,javascript**
 
 - 📫 How to reach me **naskarindrajit447@gmail.com**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/indrajit-naskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajit-naskar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rindra.sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rindra.sarkar" height="30" width="40" /></a>
-<a href="https://instagram.com/i_m_nightmare_indra56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_nightmare_indra56" height="30" width="40" /></a>
+<a href="https://instagram.com/innatty_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_nightmare_indra56" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/indrajit_447" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="indrajit_447" height="30" width="40" /></a>
 </p>
 
