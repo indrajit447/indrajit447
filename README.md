@@ -1,38 +1,58 @@
-<h1 align="center">Hi 👋, I'm Indrajit Naskar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#ff9000">Indrajit Naskar</span></h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Learner | Code Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajit447&label=Profile%20views&color=0e75b6&style=flat" alt="indrajit447" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrajit447" alt="indrajit447" /></a> </p>
-
-- 🔭 I’m currently working on **Some project**
-
-- 🌱 I’m currently learning **Mern stack**
-
-- 👨‍💻 All of my projects are available at [https://github.com/indrajit447](https://github.com/indrajit447)
-
-- 💬 Ask me about **react,c++,c,javascript**
-
-- 📫 How to reach me **naskarindrajit447@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/indrajit447](https://github.com/indrajit447)
-
-- ⚡ Fun fact **I think that i am funny XD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/indrajit-naskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajit-naskar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rindra.sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rindra.sarkar" height="30" width="40" /></a>
-<a href="https://instagram.com/innatty_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_nightmare_indra56" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/indrajit_447" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="indrajit_447" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=indrajit447&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indrajit447&show_icons=true&locale=en&layout=compact" alt="indrajit447" /></p>
+### 👨‍💻 About Me
+- 🎯 Currently working on **real-world MERN stack projects**
+- 📚 Diving deeper into **React, Node.js & MongoDB**
+- 🧠 Solving problems with **C++, JavaScript, and Python**
+- 💬 Ask me about: `React`, `C++`, `JavaScript`, `Frontend Development`
+- 📬 Reach me at: **naskarindrajit447@gmail.com**
+- 🖥️ Portfolio: [github.com/indrajit447](https://github.com/indrajit447)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indrajit447&show_icons=true&locale=en" alt="indrajit447" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrajit447&" alt="indrajit447" /></p>
+### 🌐 Connect with Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/indrajit-naskar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/rindra.sarkar" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/innatty_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/indrajit_447" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%234285F4?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,bootstrap" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=indrajit447&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajit447&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrajit447&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Fun Fact
+> *I believe coding is 10% writing code and 90% trying to figure out why it doesn’t work 😄*
+
+---
+
+### 🚀 Let’s Build Together
+If you're passionate about tech, open source, or just want to collaborate on something cool — feel free to connect. Let's code and grow together! 🚀
